@@ -1,0 +1,154 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background: white;
+	text-align:center;
+	background-size:cover;
+}
+
+.navbar-inverse{
+	background: black;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #F9E528;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand:hover {
+	color: #999;
+}
+
+.header {
+	padding-top: 50px;
+}
+
+a:hover { 
+    color: #999;
+	background-color: transparent;
+}
+
+h1{
+	text-align: center;
+	text-decoration: none;
+	font-family: Doppio One;
+	font-style: normal;
+	line-height: 6px;
+	font-size: 3.7rem;
+	padding-top: 70px;
+	padding-bottom: 0px;
+}
+
+h2 {
+	text-align: left;
+	font-family: Ubuntu;
+	font-style: normal;
+	font-size: 2.5rem;
+	line-height: 30px;
+}
+
+h3{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h4{
+	padding-top: 25px;
+}
+
+h5{
+	color: white;
+	font-size: 1.5rem;
+}
+
+.list {
+	text-align: left;
+	font-family: Ubuntu;
+	font-style: normal;
+	font-size: 2.1rem;
+	line-height: 30px;
+    margin-left: 75px;
+}
+
+#art {
+background: url("../img/parchment2.jpg");
+text-align:center;
+height: 100%;
+min-height: 100%;
+max-height: 100%;
+width: 100%;
+background-size: 100% 100%;
+background-position: center;
+max-width: 100%;
+min-width: 100%;
+top: 0;
+left: 0;
+padding: 0;
+margin: 0;
+border: #999 solid 1px;
+box-shadow: rgb(208, 208, 216) 8px 8px 10px;
+margin-left: 1px;
+margin-right: 1px;
+}
+
+#the_footer{
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-size: 2.2rem;
+	background-color: #d11414;
+	color: #FCF8F8;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.nst {
+    max-width: 100%;
+}
+
+.bullet {
+	color: white;
+	font-size: 2.5rem;
+}
+
+.it {
+	color: white;
+	font-size: 1.7rem;
+}
+
+.sonic {
+	color: #F9E528;
+}
+
+.envelope {
+	color: white;
+}
+
+.envelope:hover { 
+    color: #999;
+	background-color: transparent;
+}
+
+.one {
+    text-align: left;
+	font-family: Doppio One;
+	font-style: normal;
+	font-size: 3rem;
+	line-height: 30px;
+	text-decoration: none;
+	color: #c40323;
+    margin-left: 95px;
+}
+
+.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    margin-right: 70px;
+	margin-left: 70px;
+}
+
